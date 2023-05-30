@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Umair Rafique!
-<br /> 🌐 Full-stack developer passionate about creating efficient and scalable web applications.
+🌐 Full-stack developer passionate about creating efficient and scalable web applications.
 <br /> 💻 Proficient in PHP, JavaScript, TypeScript, and experienced in frameworks like Magento, Laravel, and WordPress.
 <br /> ⚛️ Skilled in building dynamic user interfaces with React.
 <br /> 🔧 Always exploring new technologies and tools to enhance my development skills.
